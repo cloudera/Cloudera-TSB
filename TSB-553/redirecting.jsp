@@ -1,6 +1,7 @@
 <!--
-  Copyright (c) 2022 Apache Software Foundation and provided to you under the Apache License version 2.0.
-  You may obtain a copy of the License at
+Copyright (c) 2022 Cloudera, Inc. and licensed to you under the Apache License version 2.0.  
+Based on scripts provided copyright (c) 2022 Apache Software Foundation and obtained under the Apache License version 2.0.  
+You may obtain a copy of the License at
       http://www.apache.org/licenses/LICENSE-2.0
   Unless required by applicable law or agreed to in writing, software
   distributed under the License is distributed on an "AS IS" BASIS,
